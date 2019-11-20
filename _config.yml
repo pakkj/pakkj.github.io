@@ -2,7 +2,7 @@
 title: Kanisius.ORG
 description: Stylish, Two-Column Jekyll Theme
 url: https://kanisius.org
-logo: logo-pakkj.png                                       # Site logo
+logo: logo.png                                       # Site logo
 locale: en_US
 
 # Left Block Images
@@ -31,13 +31,13 @@ sass:
 # Social Links
 #email:             email
 #google.plus:        username
-twitter:            username
+twitter:            PAKKJ
 #facebook:           username
-github:             username
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+github:             pakkj
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-#instagram:          username
+instagram:          pakkj_alumnikanisius
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
@@ -52,7 +52,7 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
 
 # Gems
 gems:
