@@ -12,4 +12,7 @@ tag:
 - github
 ---
      
- This theme is Jekyll port of [kanisius.org](https://kanisius.org) (by [Alumni Kanisius](https://github.com/pakkj)). I couldn't stop myself to port this theme when I saw his site. And he kindly gave me permission to share this with you.
+ This our new website for [kanisius.org](https://kanisius.org) (by [Alumni Kanisius](https://github.com/pakkj)). It an open source project so please help us make the website better. All the source is available on our github, so for those of you who would like make some changes or just wanna post some news. Please do so by creating a pull request. 
+
+ regards,
+ Richard Tirtadji
