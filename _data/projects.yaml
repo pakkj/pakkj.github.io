@@ -1,14 +1,14 @@
 - title: Kanisius - Official Website
   url: https://kanisius.edu
-  image: http://kanisius.org/images/kanisius-edu.png
+  image: https://kanisius.org/images/kanisius-edu.png
   completed: true
 
 - title: Kanisius.org - Alumni Network
   url: https://kanisius.org
-  image: http://kanisius.org/images/kanisius-org.png
+  image: https://kanisius.org/images/kanisius-org.png
   completed: true
 
 - title: Alumni Kanisius - Official Alumni Website
   url: https://alumnikanisius.org
-  image: http://kanisius.org/images/alumnikanisius-org.png
+  image: https://kanisius.org/images/alumnikanisius-org.png
   completed: true
